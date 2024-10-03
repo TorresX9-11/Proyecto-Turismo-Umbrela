@@ -1,0 +1,24 @@
+    Requerimientos:
+
+    Excurciones:
+    1. ID Excurciones
+    2. Nombre
+    3. Cupo
+    4. Destino
+    5. Descuento
+    6. ID Cliente
+
+    Alojamiento:
+    1. ID Habitacion
+    2. Ubicacion
+    3. Descripcion
+    4. Capacidad
+    5. Can.Noches
+    6. Nombre
+
+    Comida:
+    1. IDPlatillo 
+    2. Menu
+    3. Fideos (Proteina a eleccion)
+    4. Comida Rapida (Hamburguesas, Completos)
+    5. Ensaladas 
