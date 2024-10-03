@@ -10,15 +10,18 @@
 
     Alojamiento:
     1. ID Habitacion
-    2. Ubicacion
-    3. Descripcion
-    4. Capacidad
-    5. Can.Noches
-    6. Nombre
+    2. ID Cliente
+    3. Ubicacion
+    4. Descripcion
+    5. Capacidad
+    6. Can.Noches
+    7. Nombre
+    8. Descuento
+    9. Valor   
 
     Comida:
-    1. IDPlatillo 
+    1. ID Platillo 
     2. Menu
     3. Fideos (Proteina a eleccion)
     4. Comida Rapida (Hamburguesas, Completos)
-    5. Ensaladas 
+    5. Ensaladas gourmet
