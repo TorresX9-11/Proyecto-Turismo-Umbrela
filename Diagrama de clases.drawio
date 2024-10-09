@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="y_KvGh7tp8ErIMY6lhzF" name="Página-1">
+        <mxGraphModel dx="832" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="|---------------------|&#10;|    Excurciones      |&#10;|---------------------|&#10;| + ID Excurciones    |&#10;| + Nombre            |&#10;| + Cupo              |&#10;| + Destino           |&#10;| + Descuento         |&#10;| + ID Cliente        |&#10;|---------------------|&#10;| + crearExcurcion()  |&#10;| + editarExcurcion() |&#10;| + eliminarExcurcion()|&#10;| + buscarExcurcion() |&#10;|---------------------|&#10;&#10;&#10;|---------------------|&#10;|    Alojamiento      |&#10;|---------------------|&#10;| + ID Habitacion     |&#10;| + ID Cliente        |&#10;| + Ubicacion         |&#10;| + Descripcion       |&#10;| + Capacidad         |&#10;| + Can.Noches        |&#10;| + Nombre            |&#10;| + Descuento         |&#10;| + Valor             |&#10;|---------------------|&#10;| + reservarHabitacion()|&#10;| + editarReserva()   |&#10;| + cancelarReserva() |&#10;| + buscarHabitacion()|&#10;|---------------------|&#10;&#10;&#10;|---------------------|&#10;|       Comida        |&#10;|---------------------|&#10;| + ID Platillo       |&#10;| + Menu              |&#10;| + Fideos            |&#10;| + Comida Rapida     |&#10;| + Ensaladas gourmet |&#10;|---------------------|&#10;| + agregarPlatillo() |&#10;| + editarPlatillo()  |&#10;| + eliminarPlatillo()|&#10;| + buscarPlatillo()  |&#10;|---------------------|" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="332.5999755859375" y="335.79998779296875" width="157" height="756" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
